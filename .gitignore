@@ -1,0 +1,9 @@
+# 授权数据的观测层衍生文件不上传
+*.dta
+*.dta.bak
+*.log
+*.smcl
+*.tmp
+~*
+.DS_Store
+Thumbs.db
